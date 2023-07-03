@@ -1,0 +1,13 @@
+.box {
+    background: url(../../image/bg2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    max-width: 400px;
+    margin: 0 auto;
+    box-shadow: 0 5px 5px 5px #414346;
+    animation: animate 5s ease-in-out infinite;
+    transition: all 1s ease-in-out;
+    border-radius: 50%;
+  }
+  
